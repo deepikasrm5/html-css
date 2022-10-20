@@ -1,0 +1,33 @@
+.btn{
+    padding-left:14px;
+	padding-right:14px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-top-left-radius:20px;
+    border-top-right-radius:2px;
+    border-bottom-left-radius:2px;
+    border-bottom-right-radius:20px;
+    margin-bottom:10px;
+	border-width:2px;
+}
+.btn-primary{
+    color:white;
+    background-color:green;
+    border-color:black;
+}
+.btn-secondary{
+    color:black;
+    background-color:yellow;
+    border-color:black;
+}
+.btn-danger{
+    color:white;
+    background-color:red;
+    border-color:black;
+}
+.btn-reset{
+    color:black;
+    background-color:gray;
+    border-color:black;
+}
+	
