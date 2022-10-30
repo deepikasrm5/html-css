@@ -1,0 +1,37 @@
+*{
+  margin:0;
+  padding:0;
+}
+header{
+	background-image:linear-gradient(#EC5CBE,white);
+	font-size:35px;
+	font-family:merriweather;
+}
+img{
+	width:70px;
+	margin-top:40px;
+}
+h1{
+	margin-left:90px;
+	margin-top:-80px;
+}
+#logo{
+	width:15px;
+}
+main{
+	background-image:url("pink d.jpeg");
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-position:center;
+	background-size:cover;
+	height:110%;
+	font-size:20px;
+	font-family:courgette;
+}
+footer{
+	background-image:linear-gradient(white,#FBE44B);
+	font-size:20px;
+	font-family:roboto condensed;
+	padding-top:15px;
+	padding-bottom:15px;
+}
